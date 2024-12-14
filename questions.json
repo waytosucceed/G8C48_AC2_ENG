@@ -1,0 +1,211 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "<b>Claim:</b> \"Exercise helps boost mood and alleviate depression.\" <br><b>Supporting Statement:</b> \"I always feel happier and more relaxed after a workout.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Strongest Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "<b>Claim:</b> \"Reading books improves vocabulary.\" <br><b>Supporting Statement:</b> \"I’ve noticed that I learn new words when I read novels.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Strongest Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "<b>Claim:</b> \"A college degree increases job opportunities.\" <br><b>Supporting Statement:</b> \"According to the Bureau of Labor Statistics, college graduates have lower unemployment rates.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Strongest Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "<b>Claim:</b> \"Drinking water throughout the day helps with focus.\" <br><b>Supporting Statement:</b> \"A friend of mine says she can focus better when she drinks water regularly.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Strongest Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "<b>Claim:</b> \"Exercise boosts energy levels.\" <br><b>Supporting Statement:</b> \"Research published in the Journal of Physiology found that regular physical activity improves energy levels.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Strongest Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "<b>Claim:</b> \"Getting enough sleep is essential for good mental health.\" <br><b>Supporting Statement:</b> \"I always feel more refreshed and happier after a full night’s sleep.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Strongest Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "<b>Claim:</b> \"High sugar intake is linked to obesity.\" <br><b>Supporting Statement:</b> \"The American Heart Association reports that excess sugar consumption is a major factor in weight gain.\"<br> What type of supporting evidence is this?",
+    "options": [
+      "Stronger Evidence",
+      "Weaker Evidence",
+      "Strongest Evidence",
+      "Neither weaker nor stronger evidence"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q1.",
+    "question": "Which of the following is an example of a claim?",
+    "options": [
+      "\"Studies show that regular exercise reduces stress.\"",
+      "\"I believe that school uniforms help create discipline.\"",
+      "\"Many birds migrate south during the winter.\"",
+      "\"The Earth revolves around the Sun.\""
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Identify the evidence that best supports the claim:<BR> \"Homework improves student performance.\"",
+    "options": [
+      "\"Some students dislike doing homework.\"",
+      "\"Studies show students who complete homework score 20% higher on tests.\"",
+      "\"Homework can sometimes feel overwhelming for students.\"",
+      "\"My friend says homework is unnecessary.\""
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which statement is an example of weak evidence?",
+    "options": [
+      "\"Experts from the World Health Organisation recommend daily exercise for a healthy heart.\"",
+      "\"In a recent poll, 85% of respondents agreed that recycling is important.\"",
+      "\"I think eating vegetables is good for you because they’re green.\"",
+      "\"Data from a national survey shows a link between education and income.\""
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which of the following claims is supported by the evidence below? <br> <b>Evidence:</b> \"Over 70% of middle school students reported feeling more focused after participating in daily physical activity.\"",
+    "options": [
+      "\"Physical activity improves student focus.\"",
+      "\"Students should study longer hours to improve focus.\"",
+      "\"Middle school students dislike physical activity.\"",
+      "\"Focus has no connection to physical activity.\""
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Identify the evidence that best supports the claim:<BR> \"Drinking water helps maintain good health.\"",
+    "options": [
+      "\"Some people prefer juice over water.\"",
+      "\"My friend says they only drink soda and feel fine.\"",
+      "\"Drinking water too quickly can sometimes cause discomfort.\"",
+      "\"Studies show that drinking 8 cups of water daily can improve skin health and energy levels.\""
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q1.",
+    "question": "<b>Claim:</b> \"Regular physical exercise reduces the risk of developing cardiovascular disease.\" <br><b>Supporting Statement:</b> \"Research from the American Heart Association demonstrated that individuals who engage in moderate exercise five times a week have a 30% lower risk of heart disease.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Strongest",
+      "All of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "<b>Claim:</b> \"Getting enough sleep each night improves cognitive performance.\" <br><b>Supporting Statement:</b> \"Many people report feeling sharper and more focused after a good night's sleep.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Strongest",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "<b>Claim:</b> \"Using social media frequently can negatively affect mental health.\" <br><b>Supporting Statement:</b> \"A 2019 study published in the Journal of Psychological Health found that teenagers who spent more than 3 hours daily on social media reported higher rates of anxiety and depression.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Strongest",
+      "All of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "<b>Claim:</b> \"Listening to music can improve mood.\" <br><b>Supporting Statement:</b> \"Studies show that music releases dopamine, a feel-good chemical, in the brain.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Strongest",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "<b>Claim:</b> \"Learning a second language can improve memory.\" <br><b>Supporting Statement:</b> \"My friend began studying Spanish last year and has noticed a big improvement in memory.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Strongest",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "<b>Claim:</b> \"Eating a high-protein diet promotes muscle growth.\" <br><b>Supporting Statement:</b> \"A study in the Journal of Sports Nutrition found that individuals following a high-protein diet experienced an average muscle mass increase of 15% over six months.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Strongest",
+      "All of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "<b>Claim:</b> \"Frequent hand-washing reduces the spread of infection.\" <br><b>Supporting Statement:</b> \"Health professionals emphasise the importance of hand hygiene to prevent the spread of illness.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+    "options": [
+      "Weaker",
+      "Stronger",
+      "Strongest",
+      "All of the above"
+    ],
+    "correct": 1
+  }
+]
